@@ -24,7 +24,7 @@
 *.suo
 *.user
 .vs/
-.env
+*.env
 [Bb]in/
 [Oo]bj/
 _UpgradeReport_Files/
